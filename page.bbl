@@ -1,0 +1,21 @@
+\begin{thebibliography}{}
+
+\bibitem[Allaire, 2012]{rstudio}
+Allaire, J. (2012).
+\newblock Rstudio: integrated development environment for r.
+\newblock {\em Boston, MA}, 770:394.
+
+\bibitem[Alves, 2003]{ref1}
+Alves, N. (2003).
+\newblock Uma introdu{\c{c}}{\~a}o ao latex.
+
+\bibitem[Racine, 2012]{sweave}
+Racine, J.~S. (2012).
+\newblock Rstudio: a platform-independent ide for r and sweave.
+
+\bibitem[Triola et~al., 2005]{triola}
+Triola, M.~F. et~al. (2005).
+\newblock {\em Introdu{\c{c}}{\~a}o {\`a} estat{\'\i}stica}, volume~9.
+\newblock ltc Rio de Janeiro.
+
+\end{thebibliography}

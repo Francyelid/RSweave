@@ -1,0 +1,12 @@
+\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {1}O que é o RLadies ?}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Qual a missão do RLadies?}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Exemplos de aplicação}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Nota de rodapé}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Fórmulas}{3}{section.3}%
+\contentsline {section}{\numberline {4}Criando Tabelas}{3}{section.4}%
+\contentsline {section}{\numberline {5}Criando Figuras}{4}{section.5}%
+\contentsline {section}{\numberline {6}Criando listas}{5}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Usando citações}{6}{subsection.6.1}%
+\contentsline {section}{\numberline {7}R e Latex}{7}{section.7}%
+\contentsline {section}{\numberline {A}Anexo}{11}{appendix.A}%
